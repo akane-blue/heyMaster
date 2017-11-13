@@ -1,0 +1,44 @@
+# heyMaster
+
+へいますたー！
+
+## About
+
+- [@akane](https://mstdn.maud.io/@akane) の中身です。
+- [lindwurm/mastodon:hota/master](https://github.com/lindwurm/mastodon/tree/hota/master) から更新します。
+
+## Required
+
+- git
+- docker-compose
+- [glynnbird/toot](https://github.com/glynnbird/toot)
+    - recommend: `npm install -g toot`
+
+## License
+
+- **heyMaster** licensed under [WTFPL](http://www.wtfpl.net/).
+
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
+## Author
+
+- hota/lindwurm
+    - Mastodon: [@hota@mstdn.maud.io](https://mstdn.maud.io/@hota)
+    - GitHub: [@lindwurm](https://github.com/lindwurm)
+    - Twitter: [@lindwurm](https://twitter.com/lindwurm)
+    - Web: [maud.io](https://maud.io)
+    - Blog: [dev:mordiford](http://dev.maud.io)
