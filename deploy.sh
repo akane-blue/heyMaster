@@ -3,6 +3,7 @@
 COMMITHASH=$(git ls-remote https://github.com/lindwurm/mastodon.git HEAD | head -c 7)
 cd mastodon
 echo "[${COMMITHASH}] でっぷろーい！" | toot
+sleep 5s
 docker-compose up -d --remove-orphans
 
 while true; do
