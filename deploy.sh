@@ -16,3 +16,5 @@ while true; do
 done
 
 echo "[${COMMITHASH}] だん!" | toot
+
+docker system prune -f
