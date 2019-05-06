@@ -17,4 +17,4 @@ done
 
 echo "[${COMMITHASH}] だん!" | toot
 
-docker system prune -f
+docker system prune -f --filter=until=100h
